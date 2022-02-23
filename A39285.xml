@@ -1,0 +1,372 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the King and Queen, upon the second Sunday in Advent, being the fifth of December, 1686 by the Reverend Father Dom. Philip Ellis ...</title>
+            <author>Ellis, Philip, 1652-1726.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39285</idno>
+            <idno type="STC">Wing E599</idno>
+            <idno type="STC">ESTC R40479</idno>
+            <idno type="EEBO-CITATION">19339397</idno>
+            <idno type="OCLC">ocm 19339397</idno>
+            <idno type="VID">108701</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39285)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108701)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1668:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the King and Queen, upon the second Sunday in Advent, being the fifth of December, 1686 by the Reverend Father Dom. Philip Ellis ...</title>
+                  <author>Ellis, Philip, 1652-1726.</author>
+               </titleStmt>
+               <extent>[2], 33 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by His Majesties Command."</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew, II, 2 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108701:1"/>
+            <pb facs="tcp:108701:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd before the King and Queen, UPON The Second <hi>Sunday</hi> in Advent, be<g ref="char:EOLhyphen"/>ing the fifth of <hi>December,</hi> 1686.</p>
+            <p>By the Reverend Father <hi>Dom. PHILIP ELLIS,</hi> Monk of the Holy Order, of Saint <hi>Benedict</hi> and of the <hi>Engliſh</hi> Congr. Chaplain in Ordinary, and Preacher to Their MAJESTIES.</p>
+            <p>
+               <hi>Publiſhed by His Majeſties Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's Moſt Excellent Majeſty, for his Houſhold and Chappel. 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:108701:2"/>
+            <pb n="1" facs="tcp:108701:2"/>
+            <head>A SERMON Preach'd before the King &amp; Queen Upon the ſecond <hi>Sunday</hi> in Ad<g ref="char:EOLhyphen"/>vent, being the fifth of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> 1686.</head>
+            <epigraph>
+               <q>
+                  <bibl>MATTH. 11.2.</bibl>
+                  <p>Joannes in vinculis.</p>
+                  <p>John in Priſon.</p>
+               </q>
+            </epigraph>
+            <p>STrange ſurprizing News, (Sacred Majeſty) John <hi>in Priſon.</hi>
+               <note place="margin">
+                  <hi>Luke</hi> 1.13.</note> 
+               <hi>John</hi> the Child of Prayer, <note place="margin">11. </note> the gift and darling of Heaven, the mighty ſubject of an Angels Embaſſie, himſelf an Angel,
+<note place="margin">
+                  <hi>Matth.</hi> 11.10.</note> and is
+<pb n="2" facs="tcp:108701:3"/>he in Priſon? <hi>John</hi> fill'd with the Holy Ghoſt in the very Womb,
+<note place="margin">
+                  <hi>Luke</hi> 1.15.41.66.</note> filling his Mo<g ref="char:EOLhyphen"/>ther with Prophecy, and all people with Admiration, as ſoon as he appeared in the world, and is he <hi>in Chains?</hi> Is this the Character of the greateſt Man <hi>who ever roſe among the Sons of Women?</hi>
+               <note place="margin">In vinculis. Vulgat. <hi>Matth.</hi> 11.11. <hi>Luke</hi> 1.17.</note> Is this the Herald, the Precurſor ſent to prepare the <hi>Meſſiah</hi>'s way <hi>in the Spirit and Power of</hi> Elias? But he is tamely ſeiz'd,
+<note place="margin">2 <hi>Kings</hi> 1.10.</note> and committed to Goal, when <hi>Elias</hi> would have call'd down fire from Heaven to conſume the Sacrilegious hand. Is this the powerful Man who was <hi>to convert the hearts of the Fathers to the Chil<g ref="char:EOLhyphen"/>dren,</hi>
+               <note place="margin">
+                  <hi>Luke</hi> 1.17. Et Incredu<g ref="char:EOLhyphen"/>los ad pru<g ref="char:EOLhyphen"/>dentiam juſtorum. Vulgat.</note> 
+               <hi>and the Diſobedient to the Wiſdom of the Juſt?</hi> I ſhould not have wondered at his Fathers incredulity, had he foreſeen the paſ<g ref="char:EOLhyphen"/>ſage of this day; he would have been ſtruck dumb without a Miracle, horrour and a<g ref="char:EOLhyphen"/>mazement would have done the Work; unleſs I may call it a greater Miracle, that <hi>John IN PRISON heard the Works of Chriſt,</hi> than all the Miraculous Works he heard.
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Metuebat. Vulg. re<g ref="char:EOLhyphen"/>verebatur Rub. in con<g ref="char:EOLhyphen"/>cord.</note> In ſhort, is this the Man whom <hi>Herod</hi> not only eſteem'd, but alſo knew for certainty to be <hi>Juſt and Holy? Sciens illum juſtum &amp; Sanctum;</hi> and what could have
+<pb n="3" facs="tcp:108701:3"/>endear'd him ſo much to a wiſe Prince? and St. <hi>Mark</hi> ſeems to imply no leſs,
+<note place="margin">
+                  <hi>Marc.</hi> 6.20. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. conſerva<g ref="char:EOLhyphen"/>bat. Montan.</note> 
+               <hi>cuſto<g ref="char:EOLhyphen"/>diebat eum, he kept him;</hi> who would doubt but as a Councellour and a Friend? and ſo the Evangeliſt goes on, <hi>audito eo multa facie<g ref="char:EOLhyphen"/>bat, he did many things by his advice, and heard him gladly.</hi> So far 'tis very well; 'tis what we expected. But St. <hi>Luke</hi> ſaies,
+<note place="margin">
+                  <hi>Luke</hi> 3.20.</note> 
+               <hi>he added one thing over and above, adjecit &amp; hoc ſuper omnia, he ſhut him up,</hi> not in his Cloſet, but in <hi>Priſon.</hi> Strange Paradox of Providence! ſtrange turn of Fortune! ſtrange Embleme of human Mutability! a freſh inſtance of that old Leſſon, <hi>put not your truſt in Princes,</hi>
+               <note place="margin">
+                  <hi>Pſalm.</hi> 146.3.</note> 
+               <hi>nor in the Sons of Men, in whom is no Salvation,</hi> for JOHN <hi>IS IN PRISON.</hi>
+            </p>
+            <p>But what real or pretended Crime could be laid to the charge of a perſon ſo uſeful to his Prince, ſo ſerviceable to the Publick, ſo juſt, ſo holy and inoffenſive in his Pri<g ref="char:EOLhyphen"/>vate capacity? The Goſpel being but an Abridgement of Tranſactions, ſets down only the immediate cauſe, the immediate provocation, becauſe, ſaies St. <hi>Luke,</hi> Herod <hi>the Tetrarch was reproved by him, cum corripere<g ref="char:EOLhyphen"/>tur ab eo,</hi> for Herodias <hi>his Brothers Wife,</hi>
+               <note place="margin">
+                  <hi>Luke</hi> 3.19.</note> (<hi>becauſe he had Married her,</hi> ſaies St. <hi>Mark,</hi>
+               <note place="margin">
+                  <hi>Mark</hi> 6.17.</note>
+               <pb n="4" facs="tcp:108701:4"/>his Brother being yet alive,) <hi>and for all the evils which he had done.</hi>
+            </p>
+            <p>But <hi>Joſephus Antiq.</hi> l. 18. c. 10. as a States<g ref="char:EOLhyphen"/>man and Politician dives into the bottom of the difference, and diſcovers the firſt ſpring which moved <hi>Herod</hi> againſt the Bap<g ref="char:EOLhyphen"/>tiſt; becauſe he excited people to the practice of Virtue and Juſtice, <hi>quia praecipiebat Judaeis virtuti dare operam, juſtitiam colere:</hi> upon which Doctrine, as guilt is ever jealous, but com<g ref="char:EOLhyphen"/>monly in the wrong place, corrupt Mini<g ref="char:EOLhyphen"/>ſters, and a Government noted for many Injuſtices,
+<note place="margin">Et de omni<g ref="char:EOLhyphen"/>bus malis quae fecit. <hi>Luke,</hi> ibid.</note> pretended to ground their politick and irreligious ſuſpition, that it would be of <hi>dangerous conſequence;</hi> a general reaſon for every thing one has a mind to obſtruct, when no other reaſon can be given: That it was not yet time to ſuffer ſuch Doctrine to be preached, <hi>nè novi aliquid fiat,</hi> as the Hiſtorian continues, <hi>leaſt it ſhould cauſe ſome diſturbance in the State;</hi> wherefore, ſaies he, <hi>upon this ſole ſuſpicion,</hi> not for any real ground of it, but upon the apprehenſion of conſe<g ref="char:EOLhyphen"/>quences meerly imaginary, <hi>John</hi> began to decline in the <hi>Tetrarch</hi>'s favour, the <hi>Tetrarch</hi> began to fear whom he ceas'd to love; he firſt opened his Ears to Accuſations againſt
+<pb n="5" facs="tcp:108701:4"/>him, and then his Hand to ſeize him, <hi>tenuit eum,</hi> and behold <hi>Joannes in Vinculis, John</hi> is in Priſon.</p>
+            <p>And here let us leave a while this Mar<g ref="char:EOLhyphen"/>tyr of Juſtice, to conſider a little the weight and importance of his Doctrine; How much JUSTICE conduces to the happi<g ref="char:EOLhyphen"/>neſs both of Prince and People, when its Dictates are followed, and what reparation is required when they are neglected. The firſt comprehends the Nature, the Excel<g ref="char:EOLhyphen"/>lence, and the ſeveral Species of Juſtice, and ſhall be treated in my firſt part: The ſecond regards the violation of it, as it is reparable; where I ſhall ſpeak of RESTI<g ref="char:EOLhyphen"/>TUTION, and Conclude.</p>
+            <p>Let us beg a portion of his Spirit, of his Firmneſs and Courage, that I may not ſink the Reputation of that Cauſe, which he ſo gloriouſly maintain'd; but as I cannot hope to bear it up to that height, ſo it is my comfort that I need not, ſince I ſpeak to an Aſſembly already prepar'd to receive a Do<g ref="char:EOLhyphen"/>ctrine ſo agreeable to Reaſon, and eſſenti<g ref="char:EOLhyphen"/>al to the Law of Chriſt, who came into the world, <hi>to publiſh his word to Jacob,</hi>
+               <note place="margin">Pſal. 147.19.</note> 
+               <hi>his juſtice and judgments to Iſrael,</hi> when the An<g ref="char:EOLhyphen"/>gel
+<pb n="6" facs="tcp:108701:5"/>ſaluted the B. Virgin in the ſame terms we make our uſual addreſſes to her,</p>
+            <q>
+               <p>Hail <hi>Mary</hi> full of Grace, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <div type="section">
+               <p>IT is the firſt and greateſt commendati<g ref="char:EOLhyphen"/>on of Juſtice, that it comprehends all virtues in it ſelf, runs through every branch of the Divine and Humane Law, and veri<g ref="char:EOLhyphen"/>fies the bold aſſertion of a Learned Writer, that, as never any thing was well done which was not directed by Juſtice; ſo ne<g ref="char:EOLhyphen"/>ver any thing was done with a right inten<g ref="char:EOLhyphen"/>tion, if it was not for the ſake of Juſtice. The Ancient Author of the Imperfect Work among thoſe of St.
+<note place="margin">Author. oper. im<g ref="char:EOLhyphen"/>pert. apud Chryſoſt. Hom. 34.</note> 
+                  <hi>John Chryſoſtom,</hi> ingeni<g ref="char:EOLhyphen"/>ouſly propoſes Juſtice as the <hi>Vine,</hi> all other Virtues as the <hi>Branches</hi> which are vegetated and nouriſhed with the Juice and Spirits, which are tranſmitted to them from this <hi>Mother-Stock.</hi> And what can be a greater eviction of this Truth, than the <hi>Holy Ghoſt's</hi> generally uſing that Name for the perfecti<g ref="char:EOLhyphen"/>on of all, and promiſcuouſly for every Vir<g ref="char:EOLhyphen"/>tue? For when he would deliver the <hi>ver<g ref="char:EOLhyphen"/>bum breviatum,</hi> ſpeak much of a Man in a
+<pb n="7" facs="tcp:108701:5"/>little, a Panegyrick in a word, he calls him <hi>Juſt;</hi> Thus when he would raiſe in our minds a high eſteem of <hi>Noe,</hi> he calls him a <hi>juſt and perfect man,</hi>
+                  <note place="margin">Gen. 6.9.</note> 
+                  <hi>Noe vir juſtus atque perfectus;</hi> when he would commend the extraordinary Piety and ſingular Pru<g ref="char:EOLhyphen"/>dence of St. <hi>Joſeph, Joſeph cum eſſet juſtus;</hi>
+                  <note place="margin">Mat. 1.19.</note> when he would repreſent in one view all the virtues of our <hi>Baptiſt</hi>'s Parents,
+<note place="margin">Luke 1.6.</note> 
+                  <hi>erant ambo juſti:</hi> And in fine, when he had drawn the Portraict of our Redeemer, with his Government upon his Shoulder, to expreſs his Sovereignty, he calls him <hi>Wonderful,</hi>
+                  <note place="margin">Iſa. 9.6.</note> for his Conduct; <hi>Councellor,</hi> for his Knowledge; the <hi>Mighty God,</hi> for his Power; the <hi>Ever<g ref="char:EOLhyphen"/>laſting Father,</hi> for his Affection to his Peo<g ref="char:EOLhyphen"/>ple; the <hi>Prince of Peace,</hi> for the Tranquili<g ref="char:EOLhyphen"/>ty of his Reign; and this, ſaies he, is his Name, his Stile, Character and Property, <hi>vocabiter nomen ejus;</hi>
+                  <note place="margin">
+                     <hi>Hoc eſt no<g ref="char:EOLhyphen"/>men quod vocabunt eum.</hi> Jer. 23.6.</note> all which he ſums up elſewhere in one word, <hi>Dominus juſtus noſter,</hi> our Lord, our King the <hi>Juſt.</hi>
+               </p>
+               <p>From which, and many ſuch inſtances it appears, as St. <hi>John Chryſoſtom</hi> obſerves,
+<note place="margin">Hom. 23.</note> That a juſt man is a denomination which im<g ref="char:EOLhyphen"/>plies all virtue; that Juſtice (as he ſpeaks in <hi>Pſalm</hi> 14.) is a compound of many vir<g ref="char:EOLhyphen"/>tues,
+<pb n="8" facs="tcp:108701:6"/>and one active virtue does not make a virtue,
+<note place="margin">Juſtitia conflatur ex multis vir<g ref="char:EOLhyphen"/>tutibus, &amp; una virtus activa non facit virtu<g ref="char:EOLhyphen"/>tem.</note> 
+                  <hi>una virtus activa non facit virtutem.</hi> How, Great Doctor! is not one Virtue a Virtue? No, replies he, no more than the loſs of one Plank makes a Wreck, or one Stone can build an Houſe: A Ship cannot be built without Planks, nor a Houſe with<g ref="char:EOLhyphen"/>out Materials; but Planks without mor<g ref="char:EOLhyphen"/>treſſing, and Stones without Cement are of little or no ſervice: ſo are all other Virtues without Juſtice; They are looſe and diſ<g ref="char:EOLhyphen"/>joyned, they cannot denominate a man Vir<g ref="char:EOLhyphen"/>tuous, becauſe they cannot denominate him JUST.</p>
+               <p>I know our Pulpits continually ring with the praiſes of Charity, as the Mother and Miſtreſs of all other Virtues, and little is heard of Juſtice. But you are to obſerve that the Pulpit, in preaching <hi>Chriſtianity,</hi> ſup<g ref="char:EOLhyphen"/>poſes <hi>Morality;</hi> as one who labours to beau<g ref="char:EOLhyphen"/>tifie and adorn a Fabrick, ſuppoſes the Foundation is well laid, otherwiſe it would be madneſs to ſpend his Time, his Mony and Induſtry upon a Houſe which may like<g ref="char:EOLhyphen"/>ly fall upon his Head, and bury him with his Art and Charges in the Rubbage.</p>
+               <pb n="9" facs="tcp:108701:6"/>
+               <p>Now Juſtice is the ground of Moral Ver<g ref="char:EOLhyphen"/>tues, as Charity is of the Chriſtian: and as it is a folly to think to be <hi>pious</hi> without firſt being <hi>honeſt;</hi> ſo it is a fond hope, and ſenſe<g ref="char:EOLhyphen"/>leſs endeavour to ſuperſtruct <hi>Charity</hi> where <hi>Juſtice</hi> has not ſecur'd the Foundation.</p>
+               <p>To proceed therefore from the more ge<g ref="char:EOLhyphen"/>neral and larger acceptation of the word, to the common and more reſtrained uſe of it, as it ſignifies a particular virtue, it is defin'd by Divines and Moraliſts, after <hi>Ulpian,</hi>
+                  <note place="margin">Ulp. L. de juſt: π de jus ν: &amp; ju<g ref="char:EOLhyphen"/>re.</note> 
+                  <hi>con<g ref="char:EOLhyphen"/>ſtans &amp; perpetua voluntas, jus ſuum cuique tribuendi, a conſtant and unchangeable Will, and Reſolution of giving to every one what belongs to him,</hi> whether in Buying and Selling, or any ſort of Trade or Exchange, which we call <hi>Commutative Juſtice:</hi> or by dealing out Re<g ref="char:EOLhyphen"/>wards or Favours, with reſpect to the Me<g ref="char:EOLhyphen"/>rit, or Fidelity of Perſons, which we call <hi>Diſtributive Jnſtice:</hi> or performing that Ser<g ref="char:EOLhyphen"/>vice, which every one in his reſpective ſta<g ref="char:EOLhyphen"/>tion is bound to exhibit to the Publick, which is termed <hi>Legal Juſtice,</hi> or reſtoring the Goods and Effects of another, which we have deſtroyed, or unjuſtly detained, which is called <hi>Reſtitution.</hi> I purpoſely abſtain from mentioning that ſort of Juſtice,
+<pb n="10" facs="tcp:108701:7"/>which inflicts Puniſhments, and is called <hi>Vindictive:</hi> I ſpeak nothing of it, I ſay, partly becauſe, tis a Branch of the Diſtributive; and partly becauſe 'tis more the buſineſs of the <hi>Bar,</hi> than of the <hi>Pulpit;</hi> and becauſe I deſire the Audience ſhould not think I exceed my Commiſſion; I ſpeak of the Divine, not of the Human Juſtice, I ſummon you to the Inward Tribunal; and if I threaten Pu<g ref="char:EOLhyphen"/>niſhment, I mean not that which is inflicted by the Temporal Power.</p>
+               <p>This premis'd, I affirm, any wilful and premeditated offence againſt one or more of theſe ſpecies of Juſtice, conſtitutes a Man formally unjuſt; and this not only by Com<g ref="char:EOLhyphen"/>mitting, or doing wrong, but alſo by O<g ref="char:EOLhyphen"/>mitting, or neglecting to do what we ought, <hi>neque minus omiſſione reddi hominem injuſtum quàm commiſſione,</hi> ſay the Divines; And in ſuch caſes, the Dictates of right Reaſon, as well as the precepts of Religion, command us to make reparation if we deſire to be forgiven; of which more in my Second part; at preſent, it will be ſufficient to illuſtrate the Doctrine by an Example or two, in each of theſe heads, as far as the Time will allow.</p>
+               <pb n="11" facs="tcp:108701:7"/>
+               <p>
+                  <hi>Firſt,</hi> If you have taken advantage of the neceſſities of your Neighbours and upon that account ſold things dearer than the true value or common price; you have ſinn'd againſt <hi>Commutative Juſtice,</hi> and ſtand oblig'd to Reſtitution. If you have laid hold of the inadvertencie or ignorance of the ſeller, and ſurpriz'd him into an incon<g ref="char:EOLhyphen"/>ſiderate bargain; you have ſinn'd againſt <hi>Com<g ref="char:EOLhyphen"/>mutative Juſtice:</hi> which ſentences you to Re<g ref="char:EOLhyphen"/>ſtitution. What you call a good bargain is a deceit: you have not bought, but cheated.</p>
+               <p>
+                  <hi>Secondly,</hi> If you aſperſe the Reputation of your Neighbour, either take away his good Name, or notably prejudice it, by Detraction, Drollery Inventing or Diſperſing Satyr, Impoſing a Falſe, or Revealing a Secret Crime, you have offended againſt <hi>Diſtribu<g ref="char:EOLhyphen"/>tive Juſtice,</hi>
+                  <note place="margin">
+                     <hi>Rom.</hi> 13.7.</note> which enacts <hi>honour to whom hon<g ref="char:EOLhyphen"/>our</hi> is due, and obliges you to Reſtitution, even with the peril of your own fame, under pain of being the Averſion of Man<g ref="char:EOLhyphen"/>kind, <hi>hominum abominatio,</hi> ſaies the wiſe Man:
+<note place="margin">
+                     <hi>Prov.</hi> 24.9.</note> of being excluded from the common ſociety of Men, <hi>cum Detractoribus nè comedas:</hi> 
+                  <note place="margin"> 21. </note> This ſin of Detraction, being one of thoſe for which God delivers Men over to a repro<g ref="char:EOLhyphen"/>bate
+<pb n="12" facs="tcp:108701:8"/>ſenſe, as he did the <hi>Gentiles; Detractores, Deo odibiles,</hi>
+                  <note place="margin">
+                     <hi>Rom.</hi> 1.28. and 30.</note> 
+                  <hi>&amp;c.</hi> For if one who has wrong'd another in his goods, is bound to repair the injury with the expence even of his own, (as all Men acknowledge;) with more reaſon ſhall he, who has committed a crime of a more heinous nature, and in an higher ſubject, be adjudged to a ſeverer compenſation. And if Calumny be a grea<g ref="char:EOLhyphen"/>ter crime than Theft or Rapine, becauſe it iſſues from a deeper malice, and leaves be<g ref="char:EOLhyphen"/>hind it a greater prejudice; how came you to perſwade your ſelves the obligation of re<g ref="char:EOLhyphen"/>ſtoring, ſhould be leſs? If the perſon injured be ſacred, it is not a Simple Defamation, but a Sacriledge; It is an Invaſion as well upon the Religion as Government; and to de<g ref="char:EOLhyphen"/>face the Character of your Temporal or Spiritual Superiours, is ſo much worſe than prophaning Churches and robbing Altars, as it is worſe to mangle or deſtroy God's living Repreſentation, than to demoliſh the dead: <hi>Diis non detrahes, &amp; Principi populi tui non maledices: Thou ſhalt not revile the Gods, nor ſpeak evil of the Ruler of thy People; Exod.</hi> 22.28. Speak not evil one of another; <hi>James</hi> 4.11. <hi>In cogitatione tuâ Regi nè detra<g ref="char:EOLhyphen"/>has,
+<pb n="13" facs="tcp:108701:8"/>Debaſe not the King in thy very thoughts,</hi>
+                  <note place="margin">
+                     <hi>Eccl.</hi> 10.20.</note> 
+                  <hi>Wherefore then were you not afraid to ſpeak evil of my Servant?</hi> Num. 12.8.</p>
+               <p>
+                  <hi>Thirdly,</hi> All acceptation of perſons, whe<g ref="char:EOLhyphen"/>ther in deciding differences between Man and Man, or in conferring <hi>real Honours,</hi> places of Truſt and Preferment in the Com<g ref="char:EOLhyphen"/>mon-wealth, is a violation of <hi>Diſtributive Juſtice,</hi> which obliges the Magiſtrate, if not to proportion the reward to the Merit; at leaſt to place the Reward with the Merit: nor to accept perſons, but upon account of a greater deſert, either of <hi>Service,</hi> or <hi>Ca<g ref="char:EOLhyphen"/>pacity.</hi> In all other caſes, that deciſion of St. <hi>James</hi> falls heavy upon Men in publick Employments; <hi>Si perſonas accipitis, peccatum operamini, If you have reſpect to perſons,</hi>
+                  <note place="margin">
+                     <hi>James</hi> 2.9.</note> 
+                  <hi>you commit ſin, being convicted by the Law, as Tranſgreſſours of it.</hi> But what Law is there which binds a Man to the choice of thoſe who are to ſerve under him, or in whom he pleaſes to repoſe a confidence?</p>
+               <p>
+                  <hi>Firſt,</hi> The Law of Nature, which is no<g ref="char:EOLhyphen"/>thing but the in born Rudiments of Juſtice, prompting us to give every one, what in right and equity belongs to him; <hi>reddere vnicuique quod ſuum eſt:</hi> Merit and Retribu<g ref="char:EOLhyphen"/>tion
+<pb n="14" facs="tcp:108701:9"/>are Relatives; Merit therefore is a Right which Equity is bound to acknow<g ref="char:EOLhyphen"/>ledge, and what Equity acknowledges, Juſtice is bound to pay. Publick ſervice, and ſuffering for the Publick are of equal weight: they ballance each other when Juſtice holds the Scale, they deſerve an equal Reward; but he that ſuffers for Ju<g ref="char:EOLhyphen"/>ſtice-ſake, weighs down Both. <hi>Innocence</hi> is the Palm-tree which naturally grows under the weight, and by conſequence ought to riſe ſo much the higher, as it was more de<g ref="char:EOLhyphen"/>preſſed.</p>
+               <p>
+                  <hi>Secondly,</hi> The Law of God, as well de<g ref="char:EOLhyphen"/>claring as acting;
+<note place="margin">Deut. 1.16.</note> 
+                  <hi>nulla erit diſtantia perſona<g ref="char:EOLhyphen"/>rum, there ſhall be no diſtinction of Perſons,</hi> ſay the Pandects of Heaven, neither at the Bar, nor at the Board, nor upon the account of Religion, much leſs of ungrounded Suſpition.
+<note place="margin">John 7.24.</note> 
+                  <hi>Nolite judicare ſecundum faciem,</hi> ſaies our Bleſſed Saviour, <hi>judge not accord<g ref="char:EOLhyphen"/>ing to the face,</hi> which ſome men ſet upon things or perſons; No, nor according to the opinion of the Greater number, who are ſwayed by a contrary Intereſt, ſaies the Eter<g ref="char:EOLhyphen"/>nal Juſtice;
+<note place="margin">Exod. 23.2.</note> 
+                  <hi>in judicio non acquieſces plurimo<g ref="char:EOLhyphen"/>rum ſententiae, nec accipies cujusquam perſo<g ref="char:EOLhyphen"/>nam,
+<pb n="15" facs="tcp:108701:9"/>ut à vero devies: in Judgment, i. e.</hi> in aſſigning rewards as well as otherwiſe, <hi>do not acquieſce to the opinion even of the moſt, nor accept the perſon of any Body whatſoever,</hi> ſo far as to <hi>depart from what is right</hi> in thy own judgment: as if he had ſaid, If you do exclude perſons whom you think deſerving in your own judgement, either upon <hi>ap<g ref="char:EOLhyphen"/>pearances,</hi> or the erring opinion <hi>even of the moſt,</hi> you will depart from Juſtice. Now, the New Law, raiſing every poſitive Com<g ref="char:EOLhyphen"/>mandment of the Old to a greater perfecti<g ref="char:EOLhyphen"/>on, more is required in this kind of the Chriſtian Magiſtrate, than of the other, who acts meerly by the Law of Nature and Dictamen of Reaſon, or the brighter, yet imperfect and glimmering Light of the <hi>Mo<g ref="char:EOLhyphen"/>ſaical.</hi> Wherefore St. <hi>James</hi> 2.1. ſeriouſly admoniſhes us to have a care <hi>That we do not hold the Faith of our Lord Jeſus Chriſt, together with reſpect of perſons, in perſonarum acceptione nolite poſſidere fidem Domini noſtri Jeſu Cbriſti;</hi> implying that ſuch a proceeding is contrary to the Oeconomy and Juſtice, and by conſe<g ref="char:EOLhyphen"/>quence, is a Prevarication of the Faith we profeſs.</p>
+               <pb n="16" facs="tcp:108701:10"/>
+               <p>And the reaſon of this is evident, for every perſon who confers imployments, or has dependences, acts either <hi>ex officio,</hi> as the ſupream Magiſtrate; a man upon his own Eſtate, a Maſter in his Family; or elſe <hi>by Commiſſion,</hi> as ſubordinate Officers.</p>
+               <p>If he act <hi>ex officio,</hi> Juſtice and his Duty to the Publick Weal oblige him to delegate his Power to ſuch as his own Judgement and Conſcience repreſent to him as the moſt faithful and ableſt Miniſters: For as he is obliged to carry the Reputation of his Country and the Publick Good, not to any determinate degree, but as high as his ut<g ref="char:EOLhyphen"/>moſt Prudence and Endeavours can reach: ſo is he bound in Juſtice to make uſe of thoſe Inſtruments which are beſt proporti<g ref="char:EOLhyphen"/>oned to that End; and where there is equal Capacity, or but little inferior, a more appro<g ref="char:EOLhyphen"/>ved Honeſty and Tenderneſs of Conſcience ought to take place. If the perſon act on<g ref="char:EOLhyphen"/>ly by <hi>Commiſſion,</hi> his Power is leſs, but his Duty is as great, in this kind, as far as his Power extends; and he is bound in Juſtice to put the Places which are in his Gift, not into ſuch Hands as will give moſt for them, (which is Extortion upon the Publick) or
+<pb n="17" facs="tcp:108701:10"/>are neareſt related to him, (which is ano<g ref="char:EOLhyphen"/>ther ſort of Bribery, that of Affection,) or will more eſpouſe and advance his Intereſt, (which is but the Farming out an Office) but into ſuch as will be moſt Honeſt, and Careful, and Circumſpect: For though the beſt Man is not always the beſt Qualified for Employment, yet Vertue is the better Title, where the Capacity is ſufficient, be<g ref="char:EOLhyphen"/>cauſe a Vicious Man can hardly be <hi>Juſt;</hi> for he wants the Divine Aſſiſtance, and bottoms his Honeſty only upon Moral Vir<g ref="char:EOLhyphen"/>tue, which does very ſeldom bear up its Name in practice, and when it does, gene<g ref="char:EOLhyphen"/>rally the Temptation of Diſhoneſty is over<g ref="char:EOLhyphen"/>come, meerly by a ſenſe of Honour: a doubtful caſe, where a man is to conquer one Paſſion by another. Wherefore the Holy Fathers and Divines, I think of all Re<g ref="char:EOLhyphen"/>ligions within the Pale of <hi>Chriſtianity,</hi> and I might take the <hi>Jew</hi> and the <hi>Gentile,</hi> the <hi>Rabbi</hi> and the <hi>Philoſopher,</hi> into the number: All Divines and Moraliſts, I ſay, unanimouſ<g ref="char:EOLhyphen"/>ly agree, that ſuch as employ men who are corrupt in their judgments, exacting up<g ref="char:EOLhyphen"/>on the Poor, taking Bribes, or diverting the Publick Stock, <hi>&amp;c.</hi> are obliged to Re<g ref="char:EOLhyphen"/>ſtitution,
+<pb n="18" facs="tcp:108701:11"/>and to repair <hi>their</hi> Faults, if the Offendors do not do it themſelves, which indeed is poſſible, but not reaſonably to be expected<g ref="char:punc">▪</g>
+               </p>
+               <p n="4">4ly. But there is another ſort of Juſtice, which we call <hi>Legal,</hi> and touches not only men in Employments, but reaches all who are capable of ſerving the Publick, and from whoſe ſervice they are bound in Juſtice not to withdraw themſelves; bound not only to have <hi>their Loyns girt;</hi> and be found in a readineſs when they are called; but even in their ſeveral reſpective ſtations to pro<g ref="char:EOLhyphen"/>mote the Publick Good, and prefer it to the Private, whether Reputation or Inte<g ref="char:EOLhyphen"/>reſt. For as every one is a part of the Ci<g ref="char:EOLhyphen"/>vil Society, and enjoys the Bleſſings and Protection of it; ſo every one has a <hi>Special Duty</hi> incumbent on him to procure and pro<g ref="char:EOLhyphen"/>mote the good of that Society: For the good of the <hi>Part</hi> is ordered to the <hi>Whole,</hi> and the good of the Whole communicates it ſelf to each Member. And therefore when a man behaves himſelf meerly paſ<g ref="char:EOLhyphen"/>ſive to the Community, much more when he vilifies the Government, and exaſperates peoples mind againſt it; he is a <hi>Monſtrous
+<pb n="19" facs="tcp:108701:11"/>member</hi> of the Common-wealth, and is ob<g ref="char:EOLhyphen"/>lig'd to Reſtitution, that is, to rectifie, and attone for his former coldneſs and indiffer<g ref="char:EOLhyphen"/>ency, with diligence for the future, with more than common Inſtances of Loyalty, and Endeavours to ſet their hearts right, which by his Example or Diſcourſes have been alienated from the Government.</p>
+               <p>Thus have I given you a ſlight view of Juſtice in all it's Branches, and crowded the Subject of whole Volumes, and indeed of ones whole Life into few words. And having ſhown the great Duty of Reſtitution to be far more obliging, and of far greater extent than people generally imagine; It is time I proceed to Treat of it in the com<g ref="char:EOLhyphen"/>mon ſenſe and vulgar uſage of the Word, which imports only one ſort of <hi>Reſtitution,</hi> when another's Goods are unjuſtly taken or detain'd, whether by <hi>Theft,</hi> or <hi>Robbery,</hi> by <hi>Rapine</hi> or <hi>Extortion,</hi> and even <hi>by forms of Law.</hi> Your Attention, and my <hi>Second Part.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="2" type="part">
+            <pb n="20" facs="tcp:108701:12"/>
+            <head>SECOND PART.</head>
+            <p>Some, who in other matters accuſe the Catholick Chuch of impoſing too great ſe<g ref="char:EOLhyphen"/>verities upon her Children, in this think her ſo impiouſly indulgent, as to connive at Injuſtices, to ſell Pardons for ſins, and to allow of unjuſt Poſſeſſions, provided ſhe goes ſhares with the Poſſeſſour; and in ſhort, that ſhe diſpenſes with all ſorts of Reſtitution, unleſs it be to her ſelf. But in Truth, <hi>this laſt ſort is the only Reſtitution ſhe can diſpence with,</hi>
+               <note place="margin">
+                  <hi>Sermon be<g ref="char:EOLhyphen"/>fore the King upon</hi> All-Saints <hi>of the Order of St.</hi> B. Nov. 13.</note> 
+               <hi>and which ſhe has actually, ſolemnly, and irrevocably done, as I lately proved in reference to Abbey-Lands:</hi> She can renounce her own Title, but not anothers; For in all other caſes it is, and ever was her Doct<g ref="char:EOLhyphen"/>rine and practice, <hi>ſicut non ſatisfit Deo. de in<g ref="char:EOLhyphen"/>juria ſibi illata, niſi per paenitentiam: ita nec proximo de re ſpoliata, niſi per juſtam Reſtitu<g ref="char:EOLhyphen"/>tionem,</hi>
+               <note place="margin">S. <hi>Thom.</hi> Tom. 1. Opuſc. cap. 17.</note> as the great Maſter of our Schools expreſſes it; <hi>As we cannot appeaſe our God for an injury done to him, but by a ſerious Repentance: ſo cannot we ſatisfie our Neighbour for uſurping his Goods, but by a full Reſtitution.</hi> He had learnt this Doctrine of St. <hi>Gregory,</hi> whoſe
+<pb n="21" facs="tcp:108701:12"/>Judgment is become that of the whole Church, being inſerted into the Body of our Canon Law: <hi>Qui bona alterius,</hi> &amp;c.
+<note place="margin">Decret. Par. 2. de paenit. Diſt. 5. Cap. <hi>Falſas.</hi>
+               </note> 
+               <hi>Who unjuſtly detains the goods of another, muſt at the ſame time acknowledge he cannot do that Pe<g ref="char:EOLhyphen"/>nance, or make that Satisfaction which will carry him to Heaven,</hi> thô he may come off in this World, and in the eyes of Men, <hi>unleſs he reſtore what he has unjuſtly ſeiz'd.</hi> St. <hi>Gregory</hi> had learnt this Doctrine of St.
+<note place="margin">
+                  <hi>Aug. Ep.</hi> 54.</note> 
+               <hi>Auguſtin</hi> who in his 54th. Epiſtle to <hi>Macedonius,</hi> a Man of great Authority in the <hi>Roman</hi> Em<g ref="char:EOLhyphen"/>pire, <hi>ſi res aliena propter quam peccatum eſt, non redditur, non agitur paenitentia, ſed fingitur.</hi> If the thing wherein you ſinn'd by taking or detaining, be not reſtored, you do not re<g ref="char:EOLhyphen"/>pent, but counterfeit Repentance. And the reaſon of this is clear, for to obtain an <hi>end,</hi> we are obliged to uſe the <hi>neceſſary meanes.</hi> Now there are two ſorts of means, by which we are to work out our Salvation; both neceſſary, but not equally ſo: The firſt is <hi>neceſſitas precepti,</hi> neceſſary becauſe com<g ref="char:EOLhyphen"/>manded, as Faſting and Alms-deeds, <hi>&amp;c.</hi> which are then binding, when we are in the circumſtance and condition to perform them. The ſecond, <hi>neceſſitas medii,</hi> neceſ<g ref="char:EOLhyphen"/>ſary,
+<pb n="22" facs="tcp:108701:13"/>becauſe the end, without the means cannot be obtained, as Faith in Chriſt in or<g ref="char:EOLhyphen"/>der to Eternal Life, the Love of God and our Neighbour, <hi>&amp;c.</hi> Now God has affixt both theſe neceſſities to Reſtitution; that <hi>of Command</hi> is frequently repeated and urg'd in both Teſtaments. In the Old, having provided for his own Love and Service in very few Commandments, he imploys more than twice the number in ſecuring the Rights, and fenceing in the Goods of our Neighbour; and to imprint in us a greater horrour of uſurping them, he forbids even the Deſire, <hi>Non concupiſces;</hi> and to imprint in us a greater horrour of detaining them, he will not permit his own people to keep the wages of an hired Servant even till the next Morning.
+<note place="margin">
+                  <hi>Levit.</hi> 19.13.</note> In the New Teſtament he does not repeat, but ſuppoſes the Moral Law as to <hi>honeſty;</hi> but proceeds to the per<g ref="char:EOLhyphen"/>fection of it, a Conſummated Virtue. This <hi>Zachaeus</hi> underſtood, who without expecting any particular Order from <hi>Jeſus Chriſt,</hi> promiſes; <hi>Si quid aliquem defraudavi, if I have defrauded or wrong'd any one,</hi>
+               <note place="margin">
+                  <hi>Luke</hi> 19.8. 2 <hi>Sam.</hi> 12.6.</note> 
+               <hi>I reſtore him four-fold.</hi> This the Moral Law oblig'd him to: The other Article, <hi>Behold I give
+<pb n="23" facs="tcp:108701:13"/>half my goods to the Poor,</hi> was in complyance to the Evangelical, which enacts, <hi>quod ſu<g ref="char:EOLhyphen"/>pereſt date Elecmoſynam;</hi>
+               <note place="margin">
+                  <hi>Luke</hi> 11.41.</note> 
+               <hi>what you have over and above</hi> neceſſity and decency, <hi>give it in Alms.</hi> Now he that obliges us to give what is our own, will he diſpenſe with us from rendring what is not our own?</p>
+            <p>
+               <hi>Secondly,</hi> This Duty of Reſtitution is ne<g ref="char:EOLhyphen"/>ceſſary <hi>neceſſitate medii;</hi> 'tis <hi>abſolutely neceſſary;</hi> neither Divine, nor Human Power can diſpence with the performance of it; and nothing but a <hi>formal</hi> and <hi>abſolute incapacity</hi> can excuſe us; for no body can be oblig'd to what is impoſſible. Yet this abſolute inca<g ref="char:EOLhyphen"/>pacity does not take away the obligation, but only ſuſpends it for the time; for it ſtill returns upon us when we are able in any degree to comply with it: I ſaid, <hi>not the Divine Power;</hi> I ſaid it, and I prove it. For there are two injuries involv'd in every un<g ref="char:EOLhyphen"/>juſt action, or <hi>quaſi-action,</hi> that is, Non<g ref="char:EOLhyphen"/>reſtitution; the one to God, who ſuffers by the violation of his Commandment; the other to your Neighbour, who ſuffers by the loſs or detention of his Goods or In<g ref="char:EOLhyphen"/>heritance: Whence ariſe two diſtinct obli<g ref="char:EOLhyphen"/>gations; the one, of ſatisfying God, whoſe
+<pb n="24" facs="tcp:108701:14"/>honour and Sovereignty you have incroach'd upon by diſobedience; the other, of ſatis<g ref="char:EOLhyphen"/>fying your Neighbour, whoſe tears, whoſe wants, and even whoſe deſires cry to Hea<g ref="char:EOLhyphen"/>ven for vengeance againſt you;
+<note place="margin">
+                  <hi>Pſal.</hi> 10.17.</note> 
+               <hi>for our Lord hears the deſire of the Poor,</hi> ſaies the Royal Prophet. With this Load upon your Con<g ref="char:EOLhyphen"/>ſcience, you place your ſelf in your Oratory, or come to the Feet of your Confeſſour, you proteſt you are ſorry for having offended God,
+<note place="margin">
+                  <hi>Pſal.</hi> 51.17.</note> and come to beg pardon of him <hi>who will not deſpiſe an humble and a contrite heart.</hi> No queſtion God would regard your ſor<g ref="char:EOLhyphen"/>row, and have compaſſion upon your tears, were the injury directed only againſt him<g ref="char:EOLhyphen"/>ſelf: But your Neighbour is a party offen<g ref="char:EOLhyphen"/>ded too; you beg not pardon of him, you ſtill retain his Goods, you graſp his Inheri<g ref="char:EOLhyphen"/>tance; his Children ſerve you upon their own Eſtates,
+<note place="margin">
+                  <hi>Matth.</hi> 5.24.</note> 
+               <hi>vade prius reconciliari fratri tuo;</hi> Go then ſaies he, Go, and be firſt recon<g ref="char:EOLhyphen"/>ciled to your Brother, repair the wrong, or compound it. Till one of theſe be done, all your offerings are prophane;
+<note place="margin">
+                  <hi>Iſa.</hi> 1.13.</note> 
+               <hi>Bring me no more vain oblations;</hi> All your obſervance of Religious duties, <hi>and even your appointed Feaſts, <note place="margin">14. </note> my Soul hateth:</hi> even the <hi>Sabbaths,</hi>
+               <pb n="25" facs="tcp:108701:14"/>which I commanded. <hi>Iniqui ſunt caetus ve<g ref="char:EOLhyphen"/>ſtri; your ſolemn meetings are iniquity;</hi> They receive a tincture of Injuſtice from that of the mind you bring to them. All your Alms are fruitleſs; They are not your own; <hi>ex ſubſtantia tua fac Eleemoſynas;</hi>
+               <note place="margin">
+                  <hi>Tob.</hi> 4.7.</note> to merit that Name, they muſt be done out of <hi>your own ſubſtance,</hi> not another's. Indeed <hi>Charity covers a multitude of ſins,</hi>
+               <note place="margin">1 <hi>Pet.</hi> 4.8.</note> but why does not St. <hi>Peter</hi> ſay <hi>all ſins,</hi> as Holy <hi>Toby</hi> 4.11. <hi>ab omni peccato liberat?</hi> The Apoſtle ſeems to allude to, and explain this Text: For ſome Crimes there are, which Charity it ſelf cannot cover; ſhe may varniſh them over, but can never efface them; and theſe are ſins againſt Juſtice. To be ſhort, your very Repentance is falſe and counterfeit, <hi>non agitur paenitentia, ſed fingitur;</hi>
+               <note place="margin">
+                  <hi>Aug.</hi> ſupra.</note> your hopes of pardon are ungrounded and impudent; and <hi>when you ſpread forth your hands</hi> to receive it,
+<note place="margin">
+                  <hi>Iſa.</hi> 1.15.</note> 
+               <hi>I will hide mine eyes from you:</hi> Your very Prayers, the only means left, become a freſh provocation, and heighten your guilt, <hi>cum multiplicaveritis orationem, non exaudiam, when you multiply them upon me, I will not hear.</hi>
+            </p>
+            <p>But <hi>why haſt thou ſet us up as a mark a<g ref="char:EOLhyphen"/>gainſt
+<pb n="26" facs="tcp:108701:15"/>thee?</hi>
+               <note place="margin">
+                  <hi>Job.</hi> 7.20.</note> 
+               <hi>Why haſt thou mark'd us out for</hi> ſlaughter,
+<note place="margin">
+                  <hi>Lament.</hi> 5.20.</note> 
+               <hi>O thou preſerver of Men! wherefore doſt thou forget us for ever, and forſake us ſo long a time?</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 59.3.</note> 
+               <hi>Becauſe your hands are defil'd with blood, and your fingers with iniquity.</hi> If he who neglects to feed the Poor in neceſſity, is pro<g ref="char:EOLhyphen"/>perly ſaid by St. <hi>Auſtin</hi> to Murther them, <hi>(ſi non paviſti, occidiſti;)</hi> certainly he who re<g ref="char:EOLhyphen"/>duces them to neceſſity, and continues them in it, is guilty of a double Murther: <hi>Manus veſtrae plenae ſunt ſanguine, both your hands are full of Blood;</hi> the one for <hi>taking,</hi> the other, for <hi>detaining.</hi> As for other offences which ſtrike only at himſelf, as all the breaches of the firſt Table, he alone can, and is ever ready to forgive them; but the injuries aim<g ref="char:EOLhyphen"/>ed at him through your Neighbour, as De<g ref="char:EOLhyphen"/>traction, Oppreſſion, Robbery, or Rapine, <hi>non dimittitur peccatum,</hi> &amp;c. God cannot pardon them I ſay, by the ordinary courſe of his Grace, and without a Miracle, ex<g ref="char:EOLhyphen"/>cept the offenders ignorance be invincible, after he has uſed his beſt endeavours to in<g ref="char:EOLhyphen"/>form himſelf in his Fortune and Eſtate, ac<g ref="char:EOLhyphen"/>cording to the Example of Holy <hi>Tobias,</hi>
+               <note place="margin">
+                  <hi>Tob.</hi> 2.21.</note> 
+               <hi>nè fortè furtivus ſit,</hi> leſt any part of what he poſſeſſes came to him by indirect ways.</p>
+            <pb n="27" facs="tcp:108701:15"/>
+            <p>But what a phrenzy and alienation of mind is it in a <hi>Chriſtian</hi> to deſire thoſe Riches which Providence has refuſed him? If you did Lawfully poſſeſs thoſe Goods you Un<g ref="char:EOLhyphen"/>lawfully enjoy, the <hi>Baptiſt</hi> would advice you to return them to the Donor in relief of the Poor: But what would he ſay, did he ſee us coveting our Neighbours Poſſeſſions, or detaining them with an Unjuſt Hand, tearing them from the Widow and the Or<g ref="char:EOLhyphen"/>phan, and not regarding them, while their Cries, and Tears, and Prayers pierce the Heavens, and call down judgment upon us, from a God who vouchſafes to ſtile him<g ref="char:EOLhyphen"/>ſelf <hi>the Refuge of the Oppreſſed,</hi> Pſal. 9.9. To become their Advocate, and <hi>plead their Cauſe,</hi> Pſal. 25.1. and threatens <hi>to break in pieces the Oppreſſour,</hi> Pſal. 72.4.</p>
+            <p>If God had deſigned to ſave you by Riches, he would have furniſhed you with lawful means of acquiring them: But he has thrown up the Ditches, and thick<g ref="char:EOLhyphen"/>ned the Fences, that you ſhould not break in upon them, foreſeeing you would abuſe them, they would ſeduce you. If God has beſtowed them upon you, he alſo has given you grace to uſe them to his
+<pb n="28" facs="tcp:108701:16"/>Honour; but if you add to the Heap what you receive not from his Hand, you force him to withdraw his Grace, and diſable you to uſe the reſt as you ought. But a little, you may ſay, cannot be of ſuch dread<g ref="char:EOLhyphen"/>ful conſequence: Yet it is not the quantity, but the quality of the Poyſon which is Mor<g ref="char:EOLhyphen"/>tal. This Little which comes in by drib<g ref="char:EOLhyphen"/>lets, muſt go out in Great ſumms, when you come to reſtore; and when will you be diſpos'd to render the arrears in <hi>Quadru<g ref="char:EOLhyphen"/>plum, Fourfold,</hi> if you cannot now be per<g ref="char:EOLhyphen"/>ſwaded to throw up the tenure, or pay in the Principal? God Almighty is no favourer of Intereſt upon other accounts,
+<note place="margin">Anſelm. l. cur Deus Homo, <hi>c.</hi> 11.</note> but in Re<g ref="char:EOLhyphen"/>ſtitution he exacts it. <hi>Non ſufficit ſolum red<g ref="char:EOLhyphen"/>dere quod ablatum eſt, ſed pro contumelia illata, plus debet reddere quàm abſtulit,</hi> ſaies, our fa<g ref="char:EOLhyphen"/>mous St. <hi>Anſelm.</hi> If it be a little you un<g ref="char:EOLhyphen"/>juſtly poſſeſs, you ought to be more ready to refund; if it be much, you ought to be more careful.
+<note place="margin">
+                  <hi>Totum maſ<g ref="char:EOLhyphen"/>ſum corrum<g ref="char:EOLhyphen"/>pit</hi> Vulg. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>fer<g ref="char:EOLhyphen"/>mentat.</hi> 1 <hi>Cor.</hi> 5.6. <hi>Mat.</hi> 6.19, 20.</note> But what is a little to you, perhaps is the whole fortune and ſubſiſtence, the Daily Bread of the Sufferer. A little Injuſtice is like <hi>the Leven,</hi> it corrupts the whole Maſs; it is <hi>the Moth,</hi> which devours the Treaſure; it is <hi>the Thief,</hi> which breaks
+<pb n="29" facs="tcp:108701:16"/>in, and ſteals it away inſenſibly; the way, many Eſtates are conſumed, when No bo<g ref="char:EOLhyphen"/>dy could give an account by what means. Unjuſt poſſeſſions have this quality of the <hi>Manna;</hi> they taſte deliciouſly upon the Car<g ref="char:EOLhyphen"/>nal Palate, but putrifie and become noiſome, if they are kept even till to morrow; Nay, they become Mortal, as ſoon as the perſon is ſatisfied they are unlawful.</p>
+            <p>
+               <hi>Gabriel, Soto, Leſſius,</hi>
+               <note place="margin">Gabriel in 4. d. 15. q. 2. a. 2. Soto l. 4. q. 7. a. 4. Leſſius de jure l. 2. c. 12. dub. 2.</note> and many others of the firſt Claſs, both Ancient and Modern Divines teach as a certain Truth, that every unjuſt Poſſeſſor, when he knows himſelf to be ſo, <hi>continuò actu peccat,</hi> ſins continu<g ref="char:EOLhyphen"/>ally, not only by an <hi>habitual</hi> injuſtice mor<g ref="char:EOLhyphen"/>tally criminal, but alſo ſins <hi>actually,</hi> till the moment he reſtore. Be not ſurpriz'd at this Doctrine, it is grounded upon clear and undeniable Reaſon; for who does not re<g ref="char:EOLhyphen"/>ſtore when he can, wilfully detains ano<g ref="char:EOLhyphen"/>thers Goods: But a wilful detaining them is a new action, at leaſt <hi>inſtar actionis,</hi> equi<g ref="char:EOLhyphen"/>valent to an action: Therefore as long as his Will to detain them does continue, ſo long the Injuſtice continues, ſo long the Injury, and, by evident Conſequence, ſo long the Actual Sin.</p>
+            <pb n="30" facs="tcp:108701:17"/>
+            <p>Now, <hi>Chriſtian,</hi> have you any thing to object againſt this, and not renounce that Name? Dare you reply in your thoughts, that if you reſtore what you wrongfully poſſeſs, you will not be able to bear up in the World according to your Condition? If this Reaſon be as Weighty, as it is Po<g ref="char:EOLhyphen"/>pular, you may as well ſteal, you may rob the Altar to live according to your Condi<g ref="char:EOLhyphen"/>tion. Why cannot you reduce your ſelf for the ſake of Juſtice, to what other peo<g ref="char:EOLhyphen"/>ple do for Decency and Devotion? You will not be able perhaps to make ſo great a Figure in Court, nor Glitter ſo much at a Ball, nor be ſo Expenſive in Plays; you will want Oyl to feed your Exceſſes and Va<g ref="char:EOLhyphen"/>nity: Now is not this an odd kind of Objecti<g ref="char:EOLhyphen"/>on, when one of the Reaſons why God calls upon you to make Reſtitution, and to pay your Debts, is to remove you from the cocaſions of Offending? But it will draw an Infamy upon me: Sure you are a great Stranger to Honeſty, who have ſo mean an opinion of it. Juſtice is honour'd, and revered, and applauded even by the Wicked; and the Fame of a <hi>Zacheus</hi> ſhall live for ever;
+<note place="margin">1 <hi>Kings</hi> 21.1.</note> and ſo long the Memory of an <hi>Ahab</hi> ſhall be in Execration.</p>
+            <pb n="31" facs="tcp:108701:17"/>
+            <p>But if this Doctrine were reduced to pra<g ref="char:EOLhyphen"/>ctice, it would cauſe great changes in a Na<g ref="char:EOLhyphen"/>tion. So thought the States-men of <hi>Galilee;</hi> ſo <hi>Herod</hi> fear'd, when a <hi>Baptiſt</hi> preach'd it, <hi>apprehendens nè novi aliquid fieret.</hi>
+               <note place="margin">Joſephus ſuprà.</note> But what the conſequence would be, King <hi>David</hi> tells us, <hi>veritas de terra orta eſt,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 85.11.</note> 
+               <hi>&amp; Juſtitia de Caelo proſpexit;</hi> when Juſtice looks down from Heaven, Truth ſprings up from the Earth, as it were to meet it. <hi>Juſtice and Peace ſhall kiſs one another,</hi> the Mother and the Daughter ſhall embrace; for Peace and Proſperity are the fruit of Juſtice. O ye ſons of men be Juſt, and fear no other conſequences than theſe; for <hi>the Juſtice of the clear-hearted-man,</hi> ſaies the Wiſe One, <hi>ſhall level and make ſtrait his path,</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 11.5,</note> 
+               <hi>Juſtitia ſim<g ref="char:EOLhyphen"/>plicis diriget viam;</hi> 
+               <note place="margin">6. </note> 
+               <hi>it ſhall conduct him ſafe to the end, liberabit eum,</hi> it ſhall prolong his days, and deliver him from the death of fin; <hi>liberabit eum à morte:</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 10.2.</note> It ſhall Crown him with Eternal Life, <hi>in ſemitis ejus vita:</hi>
+               <note place="margin">12.28.</note> It ſhall win the Affection of the Almighty, <hi>Qui ſequitur juſtitiam diligitur ab eo;</hi>
+               <note place="margin">15.9.14.34.</note> it exalt<g ref="char:EOLhyphen"/>eth a Nation; <hi>elevat gentem:</hi> and ſhall eſta<g ref="char:EOLhyphen"/>bliſh the Throne; <hi>firmabitur juſtitiâ Thronus.</hi>
+               <note place="margin">25.5.</note> Thus might St. <hi>John</hi> ſpeak, becauſe thus
+<pb n="32" facs="tcp:108701:18"/>ſpeaks the Holy Ghoſt, who repleniſh'd him from the very Womb, and inſpir'd him with that Courage which the <hi>Pſalmiſt</hi> glories in, that <hi>he ſpake of the Teſtimonies of God,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 119.46.</note> of Juſtice and Equity, <hi>before Kings, and was not confounded,</hi> though he was im<g ref="char:EOLhyphen"/>priſoned: For nothing can confound a Pre<g ref="char:EOLhyphen"/>curſor or Preacher of Chriſt, but betraying his Miniſtery. And now he has diſcharg'd his Office; I hope, no one here will put him off,
+<note place="margin">
+                  <hi>Act.</hi> 24.26. <hi>Diſputante autem illo de juſtitia,</hi> &amp;c.</note> as <hi>Felix</hi> did St. <hi>Paul,</hi> when he had diſcourſed of the ſame Subject, <hi>Tempore op<g ref="char:EOLhyphen"/>portuno accerſam te, I will hear thee at a more proper ſeaſon:</hi> I hope no body will think his Doctrine unſeaſonable, or if any one do; you will not find him <hi>a Reed ſhaken with the Wind:</hi> you will find him firm to Himſelf, and to his Character, <hi>preaching the word in ſeaſon, and out of ſeaſon.</hi> He will not change his Camels Hair for Soft Rai<g ref="char:EOLhyphen"/>ment, nor be taken off, nor mollified by the amuſements of a Court. He is the ſame Man in the Kings <hi>Houſe,</hi> as in the Kings <hi>Priſon:</hi> He will bid the Trades-man be juſt in his Dealing,
+<note place="margin">
+                  <hi>Luk.</hi> 3.11.</note> the Rich to impart of their Superfluities to him that wants Ne<g ref="char:EOLhyphen"/>ceſſaries; The Publicans and Collectors,
+<pb n="33" facs="tcp:108701:18"/>
+               <hi>to exact no more than is appointed them,</hi> 
+               <note place="margin">12. </note>and to give a faithful account of what they re<g ref="char:EOLhyphen"/>ceive; The Soldier, <hi>to do violence to no man,</hi> 
+               <note place="margin">14. </note> 
+               <hi>and to be contented with his pay:</hi> He has a <hi>Non Licet</hi> for every one, and <hi>a Baptiſm of Repentance</hi> in their own Tears, <hi>for the Re<g ref="char:EOLhyphen"/>miſſion of Sin:</hi> He has a Commiſſion to Threaten <hi>every Tree which bringeth not forth good Fruit,</hi> that it <hi>ſhall be cut down, and caſt into the Fire;</hi> and he has an Humble Petiti<g ref="char:EOLhyphen"/>on to thoſe who Judge the World, that they will not think they perform their Du<g ref="char:EOLhyphen"/>ty to Juſtice, by obſerving it Religiouſly in their own particular, unleſs they cauſe it to be obſerved by all their Subjects, as far as their Knowledge and Power can reach; unleſs they redreſs the Wrongs of Innocents oppreſſed, and ſuffer no body to be condemned, without firſt being heard; unleſs they repair the breaches of the Pub<g ref="char:EOLhyphen"/>lick Faith, and over-rule all Ordinances to the contrary; which can never tye up the Sovereign's Hands from reforming abuſes, though they oblige the Subject to a Paſſive Obedience, <hi>to poſſeſs his Soul in patience,</hi> and to forgive the injury, while he ſues to have it redreſſed. <hi>Which God,</hi> &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
